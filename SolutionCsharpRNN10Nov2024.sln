@@ -73,6 +73,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCodeAnalysisCSharp23
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCodeAnalysisCSharp24Nov2024", "ConsoleCodeAnalysisCSharp24Nov2024\ConsoleCodeAnalysisCSharp24Nov2024.csproj", "{AF95D37F-BD61-4D10-B6AA-29F97D75E60E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCodeAnalysisCSharp25Nov2024", "ConsoleCodeAnalysisCSharp25Nov2024\ConsoleCodeAnalysisCSharp25Nov2024.csproj", "{912F876C-8367-4F17-9631-99854C1734C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCodeAnalysisCSharp26Nov2024", "ConsoleCodeAnalysisCSharp26Nov2024\ConsoleCodeAnalysisCSharp26Nov2024.csproj", "{B38DDC07-0C16-44FF-B677-A9E9E21777C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCodeAnalysisCSharp27Nov2024", "ConsoleCodeAnalysisCSharp27Nov2024\ConsoleCodeAnalysisCSharp27Nov2024.csproj", "{2A205A7C-F895-4708-BDAD-6AAF6CF87E22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +225,18 @@ Global
 		{AF95D37F-BD61-4D10-B6AA-29F97D75E60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF95D37F-BD61-4D10-B6AA-29F97D75E60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF95D37F-BD61-4D10-B6AA-29F97D75E60E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912F876C-8367-4F17-9631-99854C1734C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912F876C-8367-4F17-9631-99854C1734C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912F876C-8367-4F17-9631-99854C1734C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912F876C-8367-4F17-9631-99854C1734C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38DDC07-0C16-44FF-B677-A9E9E21777C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38DDC07-0C16-44FF-B677-A9E9E21777C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38DDC07-0C16-44FF-B677-A9E9E21777C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38DDC07-0C16-44FF-B677-A9E9E21777C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A205A7C-F895-4708-BDAD-6AAF6CF87E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A205A7C-F895-4708-BDAD-6AAF6CF87E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A205A7C-F895-4708-BDAD-6AAF6CF87E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A205A7C-F895-4708-BDAD-6AAF6CF87E22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
